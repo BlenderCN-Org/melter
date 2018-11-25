@@ -5,9 +5,9 @@ Melter
 
 Melter is a tool to joint vertices quickly in a natural workflow.
 
-## Doc
+### Doc
 https://fictheader.github.io/documents/tools/beast.html#melter
-## Acknowledgement
+### Acknowledgement
 https://fictheader.github.io/documents/tools/beast.html#acknowledgement
-## Developers
+### Developers
 https://fictheader.github.io/documents/tools/beast.html#developers
